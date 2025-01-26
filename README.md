@@ -8,8 +8,8 @@ I'm passionate about Public and Labor Economics.
 - Data Science, Machine Learning, Web Development
 
 ## 📬 Contact Me
-- 📧 [![Email](https://img.shields.io/badge/Email-Primary-blue?style=for-the-badge&logo=gmail)](mailto:rashidi.rsn@gmail.com)
-      [![Email](https://img.shields.io/badge/Email-Secondary-green?style=for-the-badge&logo=gmail)](mailto:s.rashidi@lse.ac.uk)
+- 📧 (mailto:rashidi.rsn@gmail.com)
+      (mailto:s.rashidi@lse.ac.uk)
 - 💼 [LinkedIn]((https://www.linkedin.com/in/sana-rashidi/))
 - 🐦 [Twitter](https://twitter.com/johndoe)
 - 
