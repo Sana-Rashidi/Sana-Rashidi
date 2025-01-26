@@ -1,23 +1,22 @@
-## Hi there 👋, I'm [Your Name]!
+##I'm Sana Rashidi
 
-I am a [your profession or interests] passionate about [your focus areas].
+I'm a Predoc research fellow at STICERD, LSE.
+I'm passionate about Public and Labor Economics.
 
-### 🚀 Skills
-- Python, R, JavaScript, SQL
+### Skills
+- Stata, R, JavaScript, SQL
 - Data Science, Machine Learning, Web Development
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-
+## 📬 Contact Me
+- 📧 [![Email](https://img.shields.io/badge/Email-Primary-blue?style=for-the-badge&logo=gmail)](mailto:rashidi.rsn@gmail.com)
+      [![Email](https://img.shields.io/badge/Email-Secondary-green?style=for-the-badge&logo=gmail)](mailto:s.rashidi@lse.ac.uk)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/sana-rashidi/))
+- 🐦 [Twitter](https://twitter.com/johndoe)
+- 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
 
 
-## 🚀 Sample Codes
-
-[![Project 1](https://img.shields.io/badge/Project%201-GitHub-blue?style=for-the-badge&logo=github)]([https://github.com/yourusername/project1](https://github.com/Sana-Rashidi/Stata-Codes))
-[![Project 2](https://img.shields.io/badge/Project%202-Live%20Demo-green?style=for-the-badge)]([https://yourwebsite.com/project2](https://github.com/Sana-Rashidi/Quantitative-Economics-Projects))
+## Sample Codes
+[Stata]([https://github.com/yourusername/project1](https://github.com/Sana-Rashidi/Stata-Codes))
+[Python]([https://yourwebsite.com/project2](https://github.com/Sana-Rashidi/Quantitative-Economics-Projects))
