@@ -1,21 +1,19 @@
-##I'm Sana Rashidi
+## 👋 Welcome to My Profile!
 
-I'm a Predoc research fellow at STICERD, LSE.
-I'm passionate about Public and Labor Economics.
-
-### Skills
-- Stata, R, JavaScript, SQL
-- Data Science, Machine Learning, Web Development
-
-## 📬 Contact Me
-- 📧 [![Email](mailto:rashidi.rsn@gmail.com)
-- [![Email](mailto:s.rashidi@lse.ac.uk)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/sana-rashidi/))
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-
-
-
-## Sample Codes
-[Stata]([https://github.com/yourusername/project1](https://github.com/Sana-Rashidi/Stata-Codes))
-[Python]([https://yourwebsite.com/project2](https://github.com/Sana-Rashidi/Quantitative-Economics-Projects))
+<div style="display: flex;">
+  <div style="flex: 50%;">
+    <h3>📄 About Me</h3>
+    <ul>
+      <li><b>Name:</b> John Doe</li>
+      <li><b>Role:</b> Data Scientist</li>
+      <li><b>Email:</b> <a href="mailto:johndoe@example.com">johndoe@example.com</a></li>
+    </ul>
+  </div>
+  <div style="flex: 50%;">
+    <h3>🔥 Featured Projects</h3>
+    <ul>
+      <li><a href="https://github.com/yourusername/project1">Project 1</a></li>
+      <li><a href="https://github.com/yourusername/project2">Project 2</a></li>
+    </ul>
+  </div>
+</div>
