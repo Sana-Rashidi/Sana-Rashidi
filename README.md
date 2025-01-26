@@ -1,19 +1,5 @@
-## 👋 Welcome to My Profile!
+## Hi, welcome to my profile!
 
-<div style="display: flex;">
-  <div style="flex: 50%;">
-    <h3>📄 About Me</h3>
-    <ul>
-      <li><b>Name:</b> Sana </li>
-      <li><b>Role:</b> Data Scientist</li>
-      <li><b>Email:</b> <a href="mailto:johndoe@example.com">johndoe@example.com</a></li>
-    </ul>
-  </div>
-  <div style="flex: 50%;">
-    <h3>🔥 Featured Projects</h3>
-    <ul>
-      <li><a href="https://github.com/yourusername/project1">Project 1</a></li>
-      <li><a href="https://github.com/yourusername/project2">Project 2</a></li>
-    </ul>
-  </div>
-</div>
+• I’m Sana Rashidi , a Pre-doctoral researcher working for Prof. Camille Landais at London School of Economics, STICERD.
+• I’m interested in Public and Labor Economics, specially integrating beliefs and perceptions of people in this subjects.
+•  📫 How to reach me: Email me at [s.rashidi@lse.ac.uk](mailto:s.rashidi@lse.ac.uk) or [rashidi.rsn@gmail.com](mailto:rashidi.rsn@gmail.com)
