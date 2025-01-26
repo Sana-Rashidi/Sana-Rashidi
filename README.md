@@ -9,7 +9,7 @@ I'm passionate about Public and Labor Economics.
 
 ## 📬 Contact Me
 - 📧 [![Email](mailto:rashidi.rsn@gmail.com)
-      [![Email](mailto:s.rashidi@lse.ac.uk)
+- [![Email](mailto:s.rashidi@lse.ac.uk)
 - 💼 [LinkedIn]((https://www.linkedin.com/in/sana-rashidi/))
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
