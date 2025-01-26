@@ -4,7 +4,7 @@
   <div style="flex: 50%;">
     <h3>📄 About Me</h3>
     <ul>
-      <li><b>Name:</b> John Doe</li>
+      <li><b>Name:</b> Sana </li>
       <li><b>Role:</b> Data Scientist</li>
       <li><b>Email:</b> <a href="mailto:johndoe@example.com">johndoe@example.com</a></li>
     </ul>
